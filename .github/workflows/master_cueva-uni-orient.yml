@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Cueva-Uni-Orient'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9650153CA32849DFA6B858CF216C7F09 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_98CA3C599B954D408E80A0CDA441F533 }}
